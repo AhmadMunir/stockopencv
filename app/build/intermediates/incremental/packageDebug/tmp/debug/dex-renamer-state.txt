@@ -1,0 +1,4 @@
+#Tue Jun 16 00:48:52 WIB 2020
+base.0=/home/khalila/AndroidStudioProjects/TesOpenCV stock/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
